@@ -1,1 +1,3 @@
-[Word Project](https://www.wordproject.org/bibles/sw/20/1)
+[Word Project Text](https://www.wordproject.org/bibles/sw/)
+[Word Project Audio](https://www.wordproject.org/bibles/audio/05_swahili/)
+
